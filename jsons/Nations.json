@@ -26,7 +26,8 @@
 		                "[+4 Faith] per [1] population [in this city]",
         	          "[+1 Food] per [2] population [in this city]",
           
-                    "[20] HP when healing <for [All] units>",
+                          "New [Military] units start with [160] Experience [in all cities]",  
+		          "[20] HP when healing <for [All] units>",
                     "[+6] Sight <for [All] units>",
                     "[+70]% Strength <for [All] units>",                    
                     "[+8] Movement <for [All] units>",
