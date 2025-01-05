@@ -1,23 +1,23 @@
 [
   {
 		"name": "Zombie",
-		"uniques": ["[+10]% Strength <when defending>","Unit will heal every turn, even if it performs an action"]
+		"uniques": ["Normal vision when embarked","Eliminates combat penalty for attacking across a coast","[+10]% Strength <when defending>","Unit will heal every turn, even if it performs an action"]
 	},
 	{
 		"name": "Dragon",
-		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","[-90]% Strength for enemy [All] units in adjacent [All] tiles","[+10]% Strength bonus for [Military] units within [4] tiles"]
+		"uniques": ["May travel on Water tiles without embarking","Can see over obstacles", "Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","[-90]% Strength for enemy [All] units in adjacent [All] tiles","[+10]% Strength bonus for [Military] units within [4] tiles"]
 	},
 	{
 		"name": "Spirit Strengther",
-		"uniques":["[+1400]% Strength <vs [Air] units>","[+2] Sight","[+4] Movement","All healing effects doubled","Can move after attacking"],
+		"uniques":["Invisible to others","[+1400]% Strength <vs [Air] units>","[+2] Sight","[+4] Movement","All healing effects doubled","Can move after attacking"],
 	},
 	{
 		"name": "Bersker",
-		"uniques":["Ignores terrain cost","[8] additional attacks per turn"],
+		"uniques":["Blast radius [3]","[+1200]% Strength <vs [All] units>","Ignores terrain cost","[8] additional attacks per turn"],
 	},
 	{
 		"name": "Breath",
-		"uniques": ["Can move after embark","[1] additional attacks per turn", "[+15] HP when healing"]
+		"uniques": ["[99]% chance to intercept air attacks","Can see invisible [All] units","Can move after embark","[1] additional attacks per turn", "[+15] HP when healing"]
 	}
 	
 ]
