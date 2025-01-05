@@ -12,17 +12,18 @@
 
     	"outerColor": [50,100,253],
     	"innerColor": [18,160,85],
-        "uniques": ["[+30]% City Strength from defensive buildings",
+        "uniques": ["[+3000]% City Strength from defensive buildings",
+		    "[+1800]% Strength <when defending>",
                     "[+15]% growth [in this city]",
                     "[-80]% Unhappiness from [Population] [in this city]",
           
                     "[+6 Science] per [1] population [in capital]",
                     "[+4 Production] per [1] population [in capital]",
-                    "[+2 Production] per [1] population [in this city]",
+                    "[+5 Production] per [1] population [in this city]",
 		    "[+1 Happiness] per [3] population [in this city]",
                     "[+1 Gold] per [5] population [in this city]",
                     "[+2 Science] per [1] population [in this city]",
-                    "[+3 Culture] per [1] population [in this city]",
+                    "[+6 Culture] per [1] population [in this city]",
 		    "[+4 Faith] per [1] population [in this city]",
         	    "[+1 Food] per [2] population [in this city]",
           
@@ -30,8 +31,8 @@
 		    "[20] HP when healing <for [All] units>",
 		    "No movement cost to pillage <for [All] units>",
                     "[+6] Sight <for [All] units>",
-                    "[+70]% Strength <for [All] units>",                    
-                    "[+8] Movement <for [All] units>",
+                    "[+870]% Strength <for [All] units>",                    
+                    "[+10] Movement <for [All] units>",
                     "Gain +25% Strength for Military units for every 1 HP lost\nEarn 90% of killed Military unit's Strength as [Culture]",          
 		    "+2% Strength for Military units for every Happiness",
 		
@@ -41,15 +42,15 @@
 			"[All] units gain the [Bersker] promotion",
 			"[All] units gain the [Breath] promotion",
 			
-                    "May buy [All] buildings for [130] [Science] [in all cities]",
-		    "May buy [All] units for [100] [Culture] [in all cities]",
+                    "May buy [All] buildings for [50] [Science] [in all cities]",
+		    "May buy [All] units for [30] [Culture] [in all cities]",
 		    "Cities are razed [20] times as fast",  
               	    "Can move immediately once bought",
                     "Land units may cross [Mountain] tiles after the first [Worker] is earned",
                     "City-State territory always counts as friendly territory",
                     "May choose [4] additional belief(s) of any type when [founding] a religion",
-                    "Quantity of strategic resources produced by the empire +[300]%",
-	            "[+10] Movement <in [Water] tiles>"]
+                    "Quantity of strategic resources produced by the empire +[550]%",
+	            "[+15] Movement <in [Water] tiles>"]
 	            "cities": ["San Fallen","Devil","Bael","Satan","Akuma","Agares","Udug","Beelzebub","Ophis","Tannin"]
 	}
 ]
